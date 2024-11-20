@@ -8,7 +8,7 @@ redirect_from:
 ---
 ---
 
-I'm a postdoctoral fellow at the U.S. Department of Agriculture (USDA)-Agricultural Research Service (ARS) in Madison, Wisconsin. I earned my Ph.D. from Oklahoma State University, where I specialized in integrating wet-lab and bioinformatics approaches to develop microbiome-based alternatives to antibiotics. My current research continues in this area, focusing on leveraging multi-omics data to promote advancements in human and animal health and to develop innovative strategies for disease prevention.
+I'm a postdoctoral fellow at the [U.S. Department of Agriculture (USDA)-Agricultural Research Service (ARS)](https://www.ars.usda.gov/midwest-area/madison-wi/us-dairy-forage-research-center/) in Madison, Wisconsin. I earned my Ph.D. from Oklahoma State University, where I specialized in integrating wet-lab and bioinformatics approaches to develop microbiome-based alternatives to antibiotics. My current research continues in this area, focusing on leveraging multi-omics data to promote advancements in human and animal health and to develop innovative strategies for disease prevention.
 
 
 Profile of Qualifications
