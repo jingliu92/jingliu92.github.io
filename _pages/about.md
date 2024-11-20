@@ -14,13 +14,13 @@ I'm a postdoctoral fellow at the [U.S. Department of Agriculture (USDA)-Agricult
 Profile of Qualifications
 ------
 * **Programming**: Python, R, SQL, Perl, Linux, Bash
-* **Quantitative Bioinformatics Skills**: 16S rRNA gene sequencing, bulk-RNA sequencing, single cell RNA sequencing (scRNA-seq), whole genome sequencing (WGS), metagenomics, metabolomics, metatranscriptomics,statistical computing, meta-analysis, machine learning in biomarker selection, database creation and maintenance.
+* **Quantitative Bioinformatics Skills**: 16S rRNA gene sequencing, metagenomics, metatranscriptomics, metabolomics, bulk-RNA sequencing, single cell RNA sequencing (scRNA-seq), whole genome sequencing (WGS),statistical computing, meta-analysis, machine learning in biomarker selection, database creation and maintenance.
 * **Wet lab**: DNA & RNA isolation & quantification, gel electrophoresis, primer design, next-generation sequencing library prep, RT-PCR, bacterial isolation & culture, mammalian cell culture, animal handling (mice, rat, chicken).
 
 
 Research Interests
 ------
-* **NGS data analysis pipeline development and refining**: Developed data analysis workflows using Python and R for NGS data analysis, statistical computing, and visualization, including 16S rRNA gene sequencing, metagenomic sequencing, and RNAseq.
+* **NGS data analysis pipeline development and refining**: Developed data analysis workflows for NGS data analysis, statistical computing, and visualization.
   
 * **Meta-analysis**: Downloading publicly available datasets and performing meta-analyses related to research areas of interest.
 
