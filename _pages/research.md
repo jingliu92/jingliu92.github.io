@@ -9,15 +9,20 @@ author_profile: true
 
 ## Bioinformatic Data Analysis Pipeline Development and Refining
 ***
-🐷 * **Amplicon Metagenomic Sequencing**
-     * [16S Pipeline](https://github.com/jingliu92/Amplicon_16S)
-     * [ITS Pipeline](https://github.com/jingliu92/Amplicon_ITS)
+:seedling: **Amplicon Metagenomic Sequencing**
+* [16S Pipeline](https://github.com/jingliu92/Amplicon_16S)
+* [ITS Pipeline](https://github.com/jingliu92/Amplicon_ITS)
 
-**1st Place in Oral Presentation**, Annual Conference of Research Workers in Animal Disease (CRWAD), 2024. <br />
-🌻 **Williams Distinguished Graduate Fellowship**, Oklahoma State University, 2023. <br />
-👩‍🎓 **Women’s Faculty Council Student Research Award**, Oklahoma State University, 2023. <br />
-🐥 **Graduate Scholarship**, Department of Animal and Food Sciences, Oklahoma State University, 2021. <br />
-🐶 **2nd place, Biological Sciences Symposium Presentation Competition**, Oklahoma State University, 2021.
+:shamrock: **Shotgun Metagenomic Sequencing**
+  * [Reference-based Metagenomic Pipeline](https://github.com/jingliu92/Metagenomome-Reference-based-)
+  * [De novo Metagenomic Pipeline](https://github.com/jingliu92/Metagenomome-De-novo)
+
+:cactus: **Metatranscriptomics**
+  * [Reference-based Metatranscriptomic Pipeline](https://github.com/jingliu92/Metatranscriptomics-Ref-Based)
+  * [De novo Metatranscriptomic Pipeline](https://github.com/jingliu92/Metatranscriptome-De-novo)
+
+:palm_tree: **[Metabolomics](https://github.com/jingliu92/Metabolomics)**
+
 
 ## Service
 ***
@@ -27,17 +32,11 @@ author_profile: true
   -  Instructed classes ranging from 100-120 students in undergraduate level.
   -  Facilitated hands-on learning at individual level and in group settings.
     
-* Amplicon Metagenomic Sequencing
-  * [16S Pipeline](https://github.com/jingliu92/Amplicon_16S)
-  * [ITS Pipeline](https://github.com/jingliu92/Amplicon_ITS)
 
-* Shotgun Metagenomic Sequencing
-  * [Reference-based Metagenomic Pipeline](https://github.com/jingliu92/Metagenomome-Reference-based-)
-  * [De novo Metagenomic Pipeline](https://github.com/jingliu92/Metagenomome-De-novo)
 
-* Metatranscriptomics
-  * [Reference-based Metatranscriptomic Pipeline](https://github.com/jingliu92/Metatranscriptomics-Ref-Based)
-  * [De novo Metatranscriptomic Pipeline](https://github.com/jingliu92/Metatranscriptome-De-novo)
+
+
+
  
 * [Metabolomics](https://github.com/jingliu92/Metabolomics)
   
