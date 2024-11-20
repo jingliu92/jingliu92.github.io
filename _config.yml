@@ -21,11 +21,10 @@ repository               : #"jingliu92/jingliu.io/"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "selfie1.jpg"
+  avatar           : "selfie1.JPG"
   name             : "               Jing Liu, Ph.D. "
   pronouns         : # example: "she/her"  
-  bio              : "Postdoctoral Bioinformatician"
-  bio              :  "NGS & Bioinformatics"
+  bio              : "Postdoctoral Bioinformatician" "NGS & Bioinformatics"
   location         : #"Madison"
   employer         : "USDA-ARS@Madison"
   uri              : # URL
