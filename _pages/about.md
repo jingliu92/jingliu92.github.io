@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "About me "
+title: "👋 Hi there, I'm Jing! "
 author_profile: true
 redirect_from: 
   - /about/
@@ -8,8 +8,7 @@ redirect_from:
 ---
 ---
 
-**👋 Hi there, I'm Jing**
-I'm a postdoctoral fellow at the U.S. Department of Agriculture (USDA) - Agricultural Research Service (ARS) in Madison, Wisconsin. I earned my Ph.D. from Oklahoma State University, where I specialized in integrating wet-lab and bioinformatics approaches to develop microbiome-based alternatives to antibiotics. My current research continues in this area, focusing on leveraging multi-omics data to advance animal health and disease prevention.
+I'm a postdoctoral fellow at the U.S. Department of Agriculture (USDA)-Agricultural Research Service (ARS) in Madison, Wisconsin. I earned my Ph.D. from Oklahoma State University, where I specialized in integrating wet-lab and bioinformatics approaches to develop microbiome-based alternatives to antibiotics. My current research continues in this area, focusing on leveraging multi-omics data to advance animal health and disease prevention.
 
 
 Profile of Qualifications
@@ -22,6 +21,7 @@ Profile of Qualifications
 Research Interests
 ------
 * **NGS data analysis pipeline development and refining**: Developed data analysis workflows using Python and R for NGS data analysis, statistical computing, and visualization, including 16S rRNA gene sequencing, metagenomic sequencing, and RNAseq.
+  
 * **Meta-analysis**: Downloading publicly available datasets and performing meta-analyses related to research areas of interest.
 
 * **Development of antibiotic alternatives through microbiome-based approaches**: Conducted multiple animal trials and microbiome research to identify microbiome or microbial metabolites biomarkers that could be developed as antibiotic alternatives.
