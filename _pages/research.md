@@ -10,8 +10,8 @@ author_profile: true
 ## Bioinformatic Data Analysis Pipeline Development and Refining
 ***
 🌱 **Amplicon Metagenomic Sequencing**
-* [16S Pipeline](https://github.com/jingliu92/Amplicon_16S)
-* [ITS Pipeline](https://github.com/jingliu92/Amplicon_ITS)
+* [QIIME2 Pipeline](https://github.com/jingliu92/Amplicon_QIIME2)
+* [Mothur Pipeline](https://github.com/jingliu92/Amplicon_Mothur)
 
 🌴 **Shotgun Metagenomic Sequencing**
   * [Reference-based Metagenomic Pipeline](https://github.com/jingliu92/Metagenomome-Reference-based-)
@@ -21,13 +21,12 @@ author_profile: true
   * [Reference-based Metatranscriptomic Pipeline](https://github.com/jingliu92/Metatranscriptomics-Ref-Based)
   * [De novo Metatranscriptomic Pipeline](https://github.com/jingliu92/Metatranscriptome-De-novo)
 
-🌿 **[Metabolomics](https://github.com/jingliu92/Metabolomics)**
-
 🌻 **RNA Sequencing**
   * [Bulk RNA-seq Pipeline](https://github.com/jingliu92/Bulk-RNA-Seq)
   * [Single Cell RNA-seq (scRNA-seq) Pipeline](https://github.com/jingliu92/scRNA-seq)
   * [Single nuclei RNA sequencing (snRNA-seq) Pipeline](https://github.com/jingliu92/snRNA-seq)
-
+    
+🌿 **[Metabolomics](https://github.com/jingliu92/Metabolomics)**
 ## Research Projects
 1. Gut microbiome in Animal Health
    - [Identification of feed efficiency-associated gut microbes](https://link.springer.com/article/10.1186/s40104-020-00542-2)
