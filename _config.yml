@@ -22,11 +22,11 @@ repository               : #"jingliu92/jingliu.io/"
 author:
   # Biographic information
   avatar           : "selfie3.jpg"
-  name             : "Jing Liu, Ph.D. "
+  name             : "    Jing Liu, Ph.D. "
   pronouns         : # example: "she/her"  
-  bio              : "Postdoctoral Bioinformatician              NGS & Bioinformatics "
+  bio              : "Postdoctoral Bioinformatician                           NGS & Bioinformatics "
   location         : "Madison"
-  employer         : "USDA-ARS"
+  employer         : "USDA-ARS@Madison"
   uri              : # URL
   email            : "jing.liu12@okstate.edu" 
 
@@ -36,7 +36,7 @@ author:
   impactstory      : # URL
   orcid            : "https://orcid.org/0009-0003-8029-4618"
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  researchgate     : "https://www.researchgate.net/profile/Jing-Liu-273"
+  researchgate     : #"https://www.researchgate.net/profile/Jing-Liu-273"
 
   # Repositories and software development
   bitbucket        : # Username - Update with your username on the site
