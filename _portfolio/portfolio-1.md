@@ -19,9 +19,9 @@ collection: Bioinformatics
 * [Metabolomics](https://github.com/jingliu92/Metabolomics)
   
 * RNA Sequencing
-  * [Bulk RNA-seq](https://github.com/jingliu92/Bulk-RNA-Seq)
-  * [Single Cell RNA-seq (scRNA-seq)](https://github.com/jingliu92/scRNA-seq)
-  * [Single nuclei RNA sequencing (snRNA-seq)](https://github.com/jingliu92/snRNA-seq)
+  * [Bulk RNA-seq Pipeline](https://github.com/jingliu92/Bulk-RNA-Seq)
+  * [Single Cell RNA-seq (scRNA-seq) Pipeline](https://github.com/jingliu92/scRNA-seq)
+  * [Single nuclei RNA sequencing (snRNA-seq) Pipeline](https://github.com/jingliu92/snRNA-seq)
 
 
 
