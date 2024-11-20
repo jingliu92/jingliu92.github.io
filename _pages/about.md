@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "👋 Hi there, I'm Jing! "
+title: "About me "
 author_profile: true
 redirect_from: 
   - /about/
@@ -8,6 +8,7 @@ redirect_from:
 ---
 ---
 
+**👋 Hi there, I'm Jing**
 I'm a postdoctoral fellow at the U.S. Department of Agriculture (USDA) - Agricultural Research Service (ARS) in Madison, Wisconsin. I earned my Ph.D. from Oklahoma State University, where I specialized in integrating wet-lab and bioinformatics approaches to develop microbiome-based alternatives to antibiotics. My current research continues in this area, focusing on leveraging multi-omics data to advance animal health and disease prevention.
 
 
