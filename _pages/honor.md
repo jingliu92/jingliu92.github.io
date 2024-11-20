@@ -18,7 +18,7 @@ author_profile: true
 ## Service
 ***
 * **Judge** of Oklahoma State Science and Engineering Fair.
-* **Reviewer** of Animal Microbiome, Frontiers in Microbiology, Frontiers in Animal Nutrition, iMeta, BMC Microbiology
+* **Reviewer** of Animal Microbiome, Frontiers in Microbiology, Frontiers in Animal Nutrition, Animals, iMeta, iMetaOmics, BMC Microbiology,STAR Protocol
 * **Teaching Assistant** of ANSI3423 *Animal Genetics* (Every two semesters) Jan.2021 - Aug.2023 <br />
   -  Instructed classes ranging from 100-120 students in undergraduate level.
   -  Facilitated hands-on learning at individual level and in group settings.
