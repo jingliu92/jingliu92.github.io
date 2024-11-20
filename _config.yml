@@ -22,9 +22,9 @@ repository               : #"jingliu92/jingliu.io/"
 author:
   # Biographic information
   avatar           : "selfie1.JPG"
-  name             : "               Jing Liu, Ph.D. "
+  name             : "               Jing Liu "
   pronouns         : # example: "she/her"  
-  bio              : "Postdoctoral Bioinformatician  Microbiology & NGS & Bioinformatics"
+  bio              : "Postdoctoral Bioinformatician  | NGS & Bioinformatics"
   location         : #"Madison"
   employer         : "USDA-ARS@Madison"
   uri              : # URL
