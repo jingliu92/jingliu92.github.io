@@ -10,8 +10,7 @@ author_profile: true
 ## Bioinformatic Data Analysis Pipeline Development and Refining
 ***
 🌱 **Amplicon Metagenomic Sequencing**
-* [QIIME2 Pipeline](https://github.com/jingliu92/Amplicon_QIIME2)
-* [Mothur Pipeline](https://github.com/jingliu92/Amplicon_Mothur)
+  * [QIIME2 Pipeline](https://github.com/jingliu92/Amplicon_QIIME2)
 
 🌴 **Shotgun Metagenomic Sequencing**
   * [Reference-based Metagenomic Pipeline](https://github.com/jingliu92/Metagenomome-Reference-based-)
