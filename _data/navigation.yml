@@ -6,8 +6,8 @@ main:
   - title: "Publications"
     url: /publications/ 
 
-  - title: "Bolg"
-    url: /talks/ 
+  - title: "Blog"
+    url: /blog/
     
   - title: "CV"
     url: /files/Jing Liu-CV.pdf
