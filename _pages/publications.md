@@ -9,7 +9,7 @@ author_profile: true
 
 ## Peer-Reviewed Publications
 ***
-1. Lamichhane G, Olawale F, **Liu J**, Lee D-Y, Lee S-J, Chaffin N, Alake S, Lucas EA, Zhang G, Egan JM, et al. Curcumin Mitigates Gut Dysbiosis and Enhances Gut Barrier Function to Alleviate Metabolic Dysfunction in Obese, Aged Mice. Biology. 2024; 13(12):955. [[Link]](https://doi.org/10.1128/spectrum.00823-24)
+1. Lamichhane G, Olawale F, **Liu J**, Lee D-Y, Lee S-J, Chaffin N, Alake S, Lucas EA, Zhang G, Egan JM, et al. Curcumin Mitigates Gut Dysbiosis and Enhances Gut Barrier Function to Alleviate Metabolic Dysfunction in Obese, Aged Mice. Biology. 2024; 13(12):955. [[Link]](https://doi.org/10.3390/biology13120955)
 2.  **Liu J**, Guo J, Whitmore MA, Tobin I, Kim DM, Zhao Z, Zhang G. 0. Dynamic response of the intestinal microbiome to Eimeria maxima-induced coccidiosis in chickens. Microbiol Spectr 0:e00823-24. [[Link]](https://doi.org/10.1128/spectrum.00823-24)
 3. Nava-Ramírez, M.d.J, **Liu, J**, Hernández-Ramírez, J.O, Hernandez-Velasco, X, et al. Exploring the Effects of an Alfalfa Leaf-Derived Adsorbent on Microbial Community, Ileal Morphology, Barrier Function, and Immunity in Turkey Poults during Chronic Aflatoxin B1 Exposure. Int. J. Mol. Sci. 2024, 25, 7977. [[Link]](https://doi.org/10.3390/ijms25147977)
 4. Kim DM, **Liu J**, Whitmore M.A, Tobin I, Zhao ZJ, Zhang G. (2024) Two intestinal microbiota-derived metabolites, deoxycholic acid and butyrate, synergize to enhance host defense peptide synthesis and alleviate necrotic enteritis. Journal of Animal Science and Biotechnology.(Co-1st authors)) [[Link]](https://link.springer.com/article/10.1186/s40104-024-00995-9)
