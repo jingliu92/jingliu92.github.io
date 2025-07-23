@@ -21,7 +21,7 @@ repository               : #"jingliu92/jingliu.io/"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "Selfie4.JPG"
+  avatar           : "selfie1.JPG"
   name             : "               Jing (Jane) Liu "
   pronouns         : # example: "she/her"  
   bio              : "Research Scientist | Bioinformatics"
