@@ -110,3 +110,78 @@
     flex-basis: 100%;
   }
 }
+
+
+/* Taxonomy archive: compact, date-first list */
+.taxonomy-archive-list {
+  list-style: disc;
+  margin: 1.5rem 0 2rem;
+  padding-left: 2.2rem;
+}
+
+.taxonomy-archive-item {
+  display: flex;
+  align-items: baseline;
+  flex-wrap: wrap;
+  column-gap: 1rem;
+  row-gap: 0.35rem;
+  margin: 0 0 0.65rem;
+  padding: 0;
+  border: 0;
+  line-height: 1.6;
+}
+
+.taxonomy-archive-item time {
+  flex: 0 0 175px;
+  color: #888888;
+  font-size: 0.9em;
+  white-space: nowrap;
+}
+
+.taxonomy-archive-title {
+  color: #263858;
+  font-weight: 700;
+  text-decoration: none;
+}
+
+.taxonomy-archive-title:hover {
+  color: #55a9c4;
+  text-decoration: underline;
+}
+
+.taxonomy-archive-category {
+  padding: 0 0.35rem;
+  background: #999999;
+  color: #ffffff;
+  font-size: 0.85em;
+  line-height: 1.45;
+  white-space: nowrap;
+}
+
+.taxonomy-archive-tag {
+  display: inline-block;
+  margin-left: 0.25rem;
+  padding: 0 0.45rem;
+  border-radius: 4px;
+  background: #c9cbed;
+  color: #ffffff;
+  font-size: 0.8em;
+  line-height: 1.5;
+  text-decoration: none;
+  white-space: nowrap;
+}
+
+.taxonomy-archive-tag:hover {
+  background: #aeb4e3;
+  color: #ffffff;
+}
+
+@media (max-width: 768px) {
+  .taxonomy-archive-item time {
+    flex-basis: 100%;
+  }
+
+  .taxonomy-archive-list {
+    padding-left: 1.5rem;
+  }
+}
