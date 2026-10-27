@@ -39,3 +39,74 @@
 @import "vendor/font-awesome/brands";
 @import "vendor/magnific-popup/magnific-popup";
 @import "print";
+
+
+/* Category archive styling */
+.category-section {
+  margin-bottom: 2rem;
+}
+
+.category-section .archive__subtitle {
+  margin-bottom: 1rem;
+  padding-bottom: 0.5rem;
+  border-bottom: 1px solid #e5e7eb;
+  color: #737b82;
+  font-size: 1.5rem;
+}
+
+.category-post-list {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+}
+
+.category-post-item {
+  display: flex;
+  align-items: center;
+  flex-wrap: wrap;
+  gap: 0.5rem;
+  padding: 0.65rem 0;
+  border-bottom: 1px solid #f0f2f4;
+}
+
+.category-post-item time {
+  flex: 0 0 115px;
+  color: #8a9199;
+  font-size: 0.9rem;
+}
+
+.category-post-title {
+  color: #263f63;
+  font-weight: 600;
+  text-decoration: none;
+}
+
+.category-post-title:hover {
+  color: #55a9c4;
+  text-decoration: underline;
+}
+
+.category-tag {
+  display: inline-block;
+  padding: 0.15rem 0.55rem;
+  border-radius: 4px;
+  background: #e7efff;
+  color: #405a96;
+  font-size: 0.78rem;
+  text-decoration: none;
+}
+
+.category-tag:hover {
+  background: #d5e4ff;
+  color: #263f63;
+}
+
+@media (max-width: 600px) {
+  .category-post-item {
+    align-items: flex-start;
+  }
+
+  .category-post-item time {
+    flex-basis: 100%;
+  }
+}
