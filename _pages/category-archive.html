@@ -1,7 +1,7 @@
 ---
 layout: archive
 permalink: /categories/
-title: "Blog Category"
+title: "Categories"
 author_profile: true
 ---
 
@@ -10,8 +10,26 @@ author_profile: true
 
 {% for category in group_names %}
   {% assign posts = group_items[forloop.index0] %}
-  <h2 id="{{ category | slugify }}" class="archive__subtitle">{{ category }}</h2>
-  {% for post in posts %}
-    {% include archive-single.html %}
-  {% endfor %}
+
+  <h2 class="archive__subtitle" id="{{ category | slugify }}">
+    {{ category }}
+  </h2>
+
+  <ul class="category-post-list">
+    {% for post in posts %}
+      <li>
+        <time datetime="{{ post.date | date_to_xmlschema }}">
+          {{ post.date | date: "%Y-%m-%d" }}
+        </time>
+
+        <a href="{{ post.url | relative_url }}">
+          {{ post.title }}
+        </a>
+
+        {% for tag in post.tags %}
+          <span class="category-tag">{{ tag }}</span>
+        {% endfor %}
+      </li>
+    {% endfor %}
+  </ul>
 {% endfor %}
