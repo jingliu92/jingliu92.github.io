@@ -2,8 +2,17 @@
 title: 'ML4T- Week 11'
 date: 2026-11-02
 categories:
-  - Trading
+  - Trading ML
 tags:
-  - portfolio management
-  - portfolio optimization
+  - Reinforcement learning
 ---
+
+# 1. Overview
+
+Reinforcement learners create policies that provide specific direction on which action to take.
+
+# 2. The RL Problem
+
+When we say reinforcement learning, we're really describing a problem, not a solution.
+
+In the same way that linear regression is one solution to the supervised regression problem, there are many algorithms that solve the RL problem.
