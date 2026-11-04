@@ -1,7 +1,51 @@
+
 <aside class="sidebar__right">
-<nav class="toc" markdown="1">
-<header><h4 class="nav__title"><i class="fa fa-{{ include.icon | default: 'file-text' }}"></i> {{ include.title | default: site.data.ui-text[site.locale].toc_label }}</h4></header>
-*  Auto generated table of contents
-{:toc .toc__menu}
-</nav>
+  <nav class="toc" id="page-toc">
+    <header>
+      <h4 class="nav__title">
+        <i class="fa fa-list"></i> Content
+      </h4>
+    </header>
+
+    <ul class="toc__menu" id="toc-list"></ul>
+  </nav>
 </aside>
+
+<script>
+document.addEventListener("DOMContentLoaded", function () {
+  const content = document.querySelector(".page__content");
+  const tocList = document.getElementById("toc-list");
+
+  if (!content || !tocList) return;
+
+  const headings = content.querySelectorAll("h2, h3");
+
+  headings.forEach(function (heading) {
+    if (!heading.id) {
+      heading.id = heading.textContent
+        .trim()
+        .toLowerCase()
+        .replace(/[^\w\u4e00-\u9fff]+/g, "-")
+        .replace(/^-|-$/g, "");
+    }
+
+    const li = document.createElement("li");
+    const link = document.createElement("a");
+
+    link.href = "#" + heading.id;
+    link.textContent = heading.textContent;
+
+    if (heading.tagName === "H3") {
+      li.style.marginLeft = "1rem";
+    }
+
+    li.appendChild(link);
+    tocList.appendChild(li);
+  });
+
+  if (headings.length === 0) {
+    document.getElementById("page-toc").style.display = "none";
+  }
+});
+</script>
+
