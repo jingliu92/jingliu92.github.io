@@ -274,3 +274,10 @@
     clear: both;
   }
 }
+
+/* TOC header - soft green */
+#main.has-post-toc .toc .nav__title {
+  background-color: #A8C3AD;
+  color: #ffffff;
+  border-color: #A8C3AD;
+}
