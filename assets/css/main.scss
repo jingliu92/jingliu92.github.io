@@ -249,3 +249,28 @@
     padding-right: 0;
   }
 }
+
+/* Homepage: reserve space for the author profile sidebar */
+@media (min-width: 1024px) {
+  #main.homepage-layout {
+    position: relative;
+  }
+
+  #main.homepage-layout .sidebar {
+    float: left;
+    width: 20%;
+  }
+
+  #main.homepage-layout article.page {
+    float: right;
+    width: 78%;
+    margin-left: 0;
+    box-sizing: border-box;
+  }
+
+  #main.homepage-layout::after {
+    content: "";
+    display: table;
+    clear: both;
+  }
+}
