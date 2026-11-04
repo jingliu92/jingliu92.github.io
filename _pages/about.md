@@ -1,11 +1,11 @@
 ---
+layout: single
 permalink: /
-title: "👋 Hi there, I'm Jing! "
+title: "👋 Hi there, I'm Jing!"
 author_profile: true
-redirect_from: 
+redirect_from:
   - /about/
   - /about.html
----
 ---
 
 I'm a Bioinformatics Research Scientist at the [IEH Laboratories and Consulting Group](https://www.iehinc.com/) in Seattle, Washington. I earned my Ph.D. from Oklahoma State University, where I specialized in integrating **wet-lab** and **bioinformatic**s approaches to develop **microbiome-based** alternatives to antibiotics. My current research integrates next-generation sequencing (NGS) and computational biology to address two critical challenges: the development of microbiome-based alternatives to antibiotics in poultry production, and the rapid detection of foodborne pathogens to enhance food safety.
