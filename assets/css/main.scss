@@ -185,3 +185,26 @@
     padding-left: 1.5rem;
   }
 }
+
+/* Simple related posts: titles only */
+.related-posts-simple {
+  list-style: disc;
+  margin: 1rem 0 2rem;
+  padding-left: 1.5rem;
+}
+
+.related-posts-simple li {
+  margin-bottom: 0.6rem;
+  line-height: 1.6;
+}
+
+.related-posts-simple a {
+  color: #263858;
+  font-weight: 600;
+  text-decoration: none;
+}
+
+.related-posts-simple a:hover {
+  color: #55a9c4;
+  text-decoration: underline;
+}
