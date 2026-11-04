@@ -14,8 +14,7 @@ layout: default
   {% endunless %}
 {% endif %}
 
-<div id="main" role="main"
-     class="{% if page.collection == 'posts' %}has-post-toc{% endif %}{% if page.url == '/' %} homepage-layout{% endif %}">
+<div id="main" role="main" class="{% if page.collection == 'posts' %}has-post-toc{% endif %}">
   {% include sidebar.html %}
 
   {% if page.collection == "posts" %}
