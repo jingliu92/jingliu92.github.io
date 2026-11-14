@@ -99,9 +99,9 @@ One professor stated that the petitioner's work had helped move acoustic modelin
 
 Another expert described the petitioner's work as having gained considerable traction among researchers.
 
-Why AAO found the letters insufficient
+**Why AAO found the letters insufficient：**
 
-#### 5.1. The letters described research activities rather than demonstrating field-wide impact.
+## 5.1. The letters described research activities rather than demonstrating field-wide impact.
 
 Many letters discussed:
 - What the petitioner researched.
@@ -111,19 +111,19 @@ Many letters discussed:
 
 However, they did not adequately explain how his work had already influenced the field at a major level.
 
-#### 5.2. The letters relied on general praise.
+### 5.2. The letters relied on general praise.
 
 The AAO emphasized that letters using strong descriptive language without specific supporting evidence have limited probative value.
 
 It cited USCIS policy guidance stating that letters lacking specifics and relying on hyperbolic language do not establish major significance.
 
-#### 5.3. The letters did not establish widespread acceptance or authoritative influence.
+### 5.3. The letters did not establish widespread acceptance or authoritative influence.
 
 The AAO acknowledged that some researchers had cited and relied on the petitioner's research.
 
 Nevertheless, the letters did not establish that his work had become authoritative or significantly changed research practices across the field.
 
-#### 5.4. The letters did not adequately explain the actual consequences of his contributions.
+### 5.4. The letters did not adequately explain the actual consequences of his contributions.
 
 The AAO wanted evidence showing how his research had already advanced the field, rather than simply expert opinions that he was an outstanding researcher.
 
@@ -147,7 +147,7 @@ The petitioner needed to demonstrate either:
 2. That the research conducted using the funding resulted in contributions of major significance.
 Neither was established.
 
-### 6. Incremental advancement versus major significance
+### 7. Incremental advancement versus major significance
 
 The AAO acknowledged that the petitioner's work may have produced incremental advancements in the field. However, it explained that incremental advancement is expected in original scientific research.
 
@@ -165,24 +165,3 @@ But the evidence did not establish:
 - A substantial advancement in the field attributable to his contributions.
 
 The AAO also emphasized that recommendation letters repeating regulatory language without explaining how the petitioner's contributions had already significantly influenced the field were insufficient.
-
-F. Research grants and funding
-The petitioner also submitted evidence showing that he had participated in research funded by well-known entities.
-
-One project involved research on the dynamics of vocal tract shaping.
-
-The petitioner subsequently published an article based on his research.
-
-Why AAO rejected this evidence
-
-The AAO noted that:
-- The petitioner was involved in a funded research project.
-- He was not specifically identified as a grant recipient.
-- Receiving research funding does not automatically establish a contribution of major significance.
-
-The petitioner needed to demonstrate either:
-1. That the research funding itself reflected the major significance of his previous work; or
-2. That the research conducted using the funding resulted in contributions of major significance.
-
-Neither was established.
-
